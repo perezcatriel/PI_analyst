@@ -53,5 +53,5 @@ empresas y sectores
 ![img_4](tableau/sp500%20(3).png)
 
 
-## Link a Tableau
+## Link a Tableau para usar el Dashboard interactivamente
 [sp500](https://public.tableau.com/views/sp500_analyst/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
