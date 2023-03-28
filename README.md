@@ -37,5 +37,17 @@ empresas y sectores
 - [Lista índice SP500](https://www.google.com/url?q=https://en.wikipedia.org/wiki/List_of_S%2526P_500_companies&sa=D&source=docs&ust=1676566032938438&usg=AOvVaw3J6gZYtEH8xJABTCf0pYqO)
 
 
-## Vista rapida del Storyteling
-[sp500](tableau/sp500.pdf)
+## Vista rapida del storytelling 
+[descargar sp500 ](tableau/sp500.pdf)
+
+**Presentacion de los ultimos 23 años de sp500**
+![img_1](tableau/sp500.png)
+
+**Analisis de Sector**
+![img_2](tableau/sp500%20(1).png)
+
+**Propuesta de mercado y acciones**
+![img_3](tableau/sp500%20(2).png)
+
+**KPI *indicador de desempeño***
+![img_4](tableau/sp500%20(3).png)
