@@ -35,3 +35,7 @@ empresas y sectores
   pagina oficial https://finance.yahoo.com/
 
 - [Lista índice SP500](https://www.google.com/url?q=https://en.wikipedia.org/wiki/List_of_S%2526P_500_companies&sa=D&source=docs&ust=1676566032938438&usg=AOvVaw3J6gZYtEH8xJABTCf0pYqO)
+
+
+## Vista rapida del Storyteling
+[sp500](tableau/sp500.pdf)
