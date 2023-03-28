@@ -38,7 +38,7 @@ empresas y sectores
 
 
 ## Vista rapida del storytelling 
-[descargar sp500 ](tableau/sp500.pdf)
+[descargar sp500.pdf ](tableau/sp500.pdf)
 
 **Presentacion de los ultimos 23 años de sp500**
 ![img_1](tableau/sp500.png)
@@ -51,3 +51,7 @@ empresas y sectores
 
 **KPI *indicador de desempeño***
 ![img_4](tableau/sp500%20(3).png)
+
+
+## Link a Tableau
+[sp500](https://public.tableau.com/views/sp500_analyst/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
