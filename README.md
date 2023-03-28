@@ -43,14 +43,17 @@ empresas y sectores
 **Presentacion de los ultimos 23 años de sp500**
 ![img_1](tableau/sp500.png)
 
-**Analisis de Sector**
+**Analisis de Sector I**
 ![img_2](tableau/sp500%20(1).png)
 
+**Analisis de Sector II**
+![img_2](tableau/sp500%20(2).png)
+
 **Propuesta de mercado y acciones**
-![img_3](tableau/sp500%20(2).png)
+![img_3](tableau/sp500%20(3).png)
 
 **KPI *indicador de desempeño***
-![img_4](tableau/sp500%20(3).png)
+![img_4](tableau/sp500%20(4).png)
 
 
 ## Link a Tableau para usar el Dashboard interactivamente
