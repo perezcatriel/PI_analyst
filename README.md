@@ -14,20 +14,20 @@
 
 `Análisis Exploratorio de los datos`(_Exploratory Data Analysis = EDA_):
 
-Cree un EDA en jupyter notebook para obtener datos de distintas fuentes sobre sp500 y poder hacer un analisis financiero
-de los ultimos 23 años.
-Trabaje con distintas fuentes y cree mi teoria sobre cual es la mejor inversion con los tiempos que corren
+Cree un EDA en Google Colab para obtener datos de distintas fuentes sobre sp500 y poder hacer un analisis financiero
+de los últimos 23 años.
+Trabaje con distintas fuentes y cree la teoría sobre cuál es la mejor inversión con el tiempo que corre.
 
 `Dashboard`:
 
-Gracias a Tableau creo varios dashboard y pude crear un storyteling para explcar mi analisis.
+Gracias a Tableau cree varios dashboard y pude crear un storytelling para explicar mí análisis.
 
-Esta el powerpoint para una vista rapida o el link a Tableau para un analisis interactivo
+Esta el PDF para una vista rápida o el link a Tableau para el análisis interactivo.
 
 `KPIs`:
 
-Cree un KPI "Indicador clave de desempeño" para tener opcion de inversion y saber cuando invertir y cuando vender en distintas
-empresas y sectores
+Cree un KPI "Indicador clave de desempeño" para tener una opción de inversión. Y saber cuando invertir y cuando vender en distintas
+empresas y sectores de forma más específica.
 
 ## Fuente de datos:
 
@@ -37,16 +37,16 @@ empresas y sectores
 - [Lista índice SP500](https://www.google.com/url?q=https://en.wikipedia.org/wiki/List_of_S%2526P_500_companies&sa=D&source=docs&ust=1676566032938438&usg=AOvVaw3J6gZYtEH8xJABTCf0pYqO)
 
 
-## Vista rapida del storytelling 
+## Vista rápida del storytelling 
 [descargar sp500.pdf ](tableau/sp500.pdf)
 
-**Presentacion de los ultimos 23 años de sp500**
+**Presentación de los últimos 23 años de sp500**
 ![img_1](tableau/sp500.png)
 
-**Analisis de Sector I**
+**Análisis de Sector I**
 ![img_2](tableau/sp500%20(1).png)
 
-**Analisis de Sector II**
+**Análisis de Sector II**
 ![img_2](tableau/sp500%20(2).png)
 
 **Propuesta de mercado y acciones**
@@ -59,5 +59,5 @@ empresas y sectores
 ## Link a Tableau para usar el Dashboard interactivamente
 [sp500](https://public.tableau.com/views/sp500_16798321799250/sp500?:language=es-ES&:display_count=n&:origin=viz_shre_link)
 
-## Link al resumen del analisis
+## Link al resumen del análisis
 [resumen](resumen.md)
