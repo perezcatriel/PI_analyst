@@ -46,7 +46,7 @@ pero solo las empresas TOP de cada sector. Ya que el resto está en el promedio.
 
 ## KPI "indicador clave de desempeño"
 
-Por último, una estrategia de inversión plausible podría ser utilizar el KPI de **ganancia por acción** poniendo un rango
+Por último, una estrategia de inversión plausible podría ser utilizar el KPI de **indicador clave de desempeño** poniendo un rango
 donde nos indicaría cuando comprar y cuando vender según el rango preestablecido por el usuario.
 
 
